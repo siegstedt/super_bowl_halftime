@@ -13,7 +13,8 @@ Whether or not you like football, the Super Bowl is a spectacle. There's drama i
 + Who performed the most songs in a halftime show?
 + Conclusion
 
-## tecstack
+## tech stack
 + Python3
 + Pandas
 + matplotlib
++ seaborn
