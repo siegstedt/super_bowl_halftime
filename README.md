@@ -19,4 +19,4 @@ Whether or not you like football, the Super Bowl is a spectacle. There's drama i
 + matplotlib
 + seaborn
 
-_ this project was originally published by David Venturi on datacamp _
+_this project was originally published by David Venturi on datacamp_
